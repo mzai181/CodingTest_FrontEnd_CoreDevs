@@ -1,0 +1,7 @@
+1. Export Default Function
+2. hitToast -> parameter reversed
+3. catch http call failure
+4. email validation
+5. onchange Function were wrong, set email and validation missing
+6. font awesome icon not loaded
+7. considering website fix date will be in future not in the past
