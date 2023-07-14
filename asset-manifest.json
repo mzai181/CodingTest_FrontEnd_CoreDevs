@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.87ba09ea.css",
+    "main.js": "/react-gh-pages/static/js/main.70905c00.js",
+    "static/js/787.77e447a1.chunk.js": "/react-gh-pages/static/js/787.77e447a1.chunk.js",
+    "static/media/bg01.jpg": "/react-gh-pages/static/media/bg01.3b14174ab24c46f87958.jpg",
+    "static/media/bg02.jpg": "/react-gh-pages/static/media/bg02.87414f246ff8275c6e3a.jpg",
+    "static/media/Poppins-Regular.ttf": "/react-gh-pages/static/media/Poppins-Regular.1c701c9a6b587802e3d0.ttf",
+    "static/media/Poppins-Bold.ttf": "/react-gh-pages/static/media/Poppins-Bold.e2abc8f5e9a67ea669ea.ttf",
+    "static/media/Lato-Light.ttf": "/react-gh-pages/static/media/Lato-Light.bd895b1eb9ced18d8ce6.ttf",
+    "static/media/Lato-Bold.ttf": "/react-gh-pages/static/media/Lato-Bold.401bd636a7027c695b08.ttf",
+    "static/media/Lato-Regular.ttf": "/react-gh-pages/static/media/Lato-Regular.79164ee524feb6583a94.ttf",
+    "static/media/bg03.jpg": "/react-gh-pages/static/media/bg03.901e90e9d845bff8d096.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.87ba09ea.css.map": "/react-gh-pages/static/css/main.87ba09ea.css.map",
+    "main.70905c00.js.map": "/react-gh-pages/static/js/main.70905c00.js.map",
+    "787.77e447a1.chunk.js.map": "/react-gh-pages/static/js/787.77e447a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87ba09ea.css",
+    "static/js/main.70905c00.js"
+  ]
+}
